@@ -1,0 +1,27 @@
+{
+  "name": "javascript_pet_find_app",
+  "version": "1.0.0",
+  "description": "JAVASCRIPT_Pet_Find_App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodolfoafl/JAVASCRIPT_Pet_Find_App.git"
+  },
+  "author": "Rodolfo A. F. Leal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodolfoafl/JAVASCRIPT_Pet_Find_App/issues"
+  },
+  "homepage": "https://github.com/rodolfoafl/JAVASCRIPT_Pet_Find_App#readme",
+  "dependencies": {
+    "@petfinder/petfinder-js": "^1.0.6"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0"
+  }
+}
